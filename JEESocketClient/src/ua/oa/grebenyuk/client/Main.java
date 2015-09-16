@@ -1,4 +1,4 @@
-package ua.oa.grebenyuk;
+package ua.oa.grebenyuk.client;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
